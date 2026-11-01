@@ -1,0 +1,4 @@
+interface:
+  display_name: "独立软件商业化"
+  short_description: "从真实产品能力出发，研究独立软件、插件的定价、首次体验与付费验证"
+  default_prompt: "使用 $indie-product-monetization-cn 评估当前产品，提出有依据的套餐、首次体验和付费闭环方案，并列出验证顺序。"
